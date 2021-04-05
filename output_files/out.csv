@@ -1,0 +1,5 @@
+IP,ASN,ASN Description,Network Name,Registrant,Network Description,Whois CIDR
+213.121.43.137,2856,"BT-UK-AS BTnet UK Regional network, GB",BT-CORP,"['n/a', 'BTNET-MNT']",['BT-CORP'],213.121.43.0/24
+45.60.72.23,19551,"INCAPSULA, US",INCAPSULA-NET,['Incapsula Inc'],['n/a'],45.60.0.0/16
+216.58.204.67,15169,"GOOGLE, US",GOOGLE,['Google LLC'],['n/a'],216.58.192.0/19
+34.249.23.188,16509,"AMAZON-02, US",AMAZON-DUB,['Amazon Data Services Ireland Limited'],['n/a'],34.248.0.0/13
